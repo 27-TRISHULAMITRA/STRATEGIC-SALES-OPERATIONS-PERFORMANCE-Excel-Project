@@ -1,0 +1,101 @@
+Order ID,Customer ID,Product ID,Region,Sale Price/Unit,Quantity,Total Amount,Payment Method,Delivery Status,Fulfillment Partner,Order Date,Delivery Date,Cancel Date,is cancel,Product Category,Average Delivery Time ,Customer Name,Delivery Performance,PRODUCT NAME
+ORD0001,CUST021,PROD012,North,44,1,44,Apple Pay,Cancelled,DHL,2023-12-31,,2024-01-02,YES,Home,NA,Zoe Mitchell,NA,Lamp
+ORD0002,CUST029,PROD018,East,96,4,384,Credit Card,Delivered,DHL,2023-02-22,2023-02-24,,NO,Toys,2,Ava White,Fast,Doll House
+ORD0003,CUST021,PROD013,South,194,4,776,Credit Card,In Transit,USPS,2023-10-11,,,NO,Home,NA,Zoe Mitchell,NA,Vacuum Cleaner
+ORD0004,CUST044,PROD013,North,196,3,588,PayPal,Cancelled,UPS,2023-05-05,,2023-05-11,YES,Home,NA,Grace Ward,NA,Vacuum Cleaner
+ORD0005,CUST027,PROD010,North,59,1,59,PayPal,Delivered,Amazon Logistics,2023-02-02,2023-02-05,,NO,Fashion,3,Hazel Brooks,Slow,Jeans
+ORD0006,CUST009,PROD010,North,58,4,232,Amazon Pay,Cancelled,DHL,2023-11-01,,2023-11-02,YES,Fashion,NA,Jackson Allen,NA,Jeans
+ORD0007,CUST042,PROD020,Central,105,3,315,Debit Card,Cancelled,DHL,2023-08-14,,2023-08-18,YES,Electronics,NA,Noah Wilson,NA,Bluetooth Speaker
+ORD0008,CUST019,PROD021,West,37,5,185,PayPal,Cancelled,DHL,2023-04-01,,2023-04-06,YES,Home,NA,Ava Robinson,NA,Wall Clock
+ORD0009,CUST013,PROD019,Central,44,2,88,Credit Card,In Transit,Amazon Logistics,2023-07-21,,,NO,Fashion,NA,Olivia Martinez,NA,Formal Shirt
+ORD0010,CUST019,PROD003,South,141,4,564,Debit Card,In Transit,DHL,2023-12-29,,,NO,Home,NA,Ava Robinson,NA,Cookware Set
+ORD0011,CUST046,PROD014,South,249,1,249,Amazon Pay,Cancelled,USPS,2023-05-04,,2023-05-08,YES,Electronics,NA,Emily Johnson,NA,Smartwatch
+ORD0012,CUST045,PROD014,Central,247,3,741,Amazon Pay,In Transit,FedEx,2023-07-25,,,NO,Electronics,NA,Emily Johnson,NA,Smartwatch
+ORD0013,CUST023,PROD006,Central,96,1,96,Apple Pay,Cancelled,Amazon Logistics,2023-02-25,,2023-02-28,YES,Fashion,NA,Charlotte Reed,NA,Shoes
+ORD0014,CUST033,PROD017,West,74,5,370,Apple Pay,Cancelled,Amazon Logistics,2023-02-24,,2023-02-25,YES,Electronics,NA,Hazel Rivera,NA,Gaming Mouse
+ORD0015,CUST033,PROD005,South,27,1,27,Credit Card,Cancelled,Amazon Logistics,2023-08-26,,2023-09-02,YES,Fashion,NA,Hazel Rivera,NA,T-Shirt
+ORD0016,CUST047,PROD005,South,27,3,81,Debit Card,In Transit,Amazon Logistics,2023-02-13,,,NO,Fashion,NA,Scarlett Murphy,NA,T-Shirt
+ORD0017,CUST045,PROD015,East,21,3,63,Credit Card,Delivered,DHL,2023-06-28,2023-07-01,,NO,Books,3,Emily Johnson,Slow,Novel
+ORD0018,CUST011,PROD008,West,70,5,350,PayPal,In Transit,Amazon Logistics,2023-11-28,,,NO,Books,NA,Mason Hall,NA,Textbook
+ORD0019,CUST041,PROD006,South,94,4,376,Credit Card,In Transit,USPS,2023-08-25,,,NO,Fashion,NA,Jacob Price,NA,Shoes
+ORD0020,CUST025,PROD001,North,813,2,1626,Credit Card,In Transit,FedEx,2023-04-12,,,NO,Electronics,NA,Emma King,NA,Smartphone
+ORD0021,CUST013,PROD015,Central,21,4,84,PayPal,In Transit,Amazon Logistics,2023-10-02,,,NO,Books,NA,Olivia Martinez,NA,Novel
+ORD0022,CUST023,PROD012,West,46,5,230,PayPal,In Transit,USPS,2023-11-09,,,NO,Home,NA,Charlotte Reed,NA,Lamp
+ORD0023,CUST016,PROD010,West,58,3,174,Amazon Pay,Cancelled,Amazon Logistics,2023-02-13,,2023-02-14,YES,Fashion,NA,Elijah Lewis,NA,Jeans
+ORD0024,CUST028,PROD006,West,96,5,480,Amazon Pay,Delivered,Amazon Logistics,2023-11-02,2023-11-05,,NO,Fashion,3,Lily Bennett,Slow,Shoes
+ORD0025,CUST040,PROD002,South,43,1,43,Debit Card,Delivered,Amazon Logistics,2023-05-28,2023-05-30,,NO,Toys,2,Benjamin Clark,Fast,Action Figure
+ORD0026,CUST027,PROD022,South,64,4,256,Debit Card,Delivered,USPS,2023-10-15,2023-10-21,,NO,Fashion,6,Hazel Brooks,Slow,Backpack
+ORD0027,CUST018,PROD008,South,70,2,140,Amazon Pay,In Transit,Amazon Logistics,2023-01-16,,,NO,Books,NA,Grace Scott,NA,Textbook
+ORD0028,CUST018,PROD018,Central,97,3,291,Credit Card,In Transit,Amazon Logistics,2023-10-09,,,NO,Toys,NA,Grace Scott,NA,Doll House
+ORD0029,CUST007,PROD021,East,37,3,111,Apple Pay,Cancelled,DHL,2023-10-07,,2023-10-10,YES,Home,NA,Liam Walker,NA,Wall Clock
+ORD0030,CUST008,PROD008,North,69,5,345,Amazon Pay,In Transit,Amazon Logistics,2023-02-14,,,NO,Books,NA,Harper Young,NA,Textbook
+ORD0031,CUST014,PROD002,North,42,5,210,Amazon Pay,In Transit,UPS,2023-03-26,,,NO,Toys,NA,Harper Young,NA,Action Figure
+ORD0032,CUST037,PROD009,East,11,5,55,Debit Card,Cancelled,FedEx,2023-06-15,,2023-06-22,YES,Books,NA,Emily Johnson,NA,Magazine
+ORD0033,CUST016,PROD005,South,27,2,54,Apple Pay,Delivered,USPS,2023-05-22,2023-05-23,,NO,Fashion,1,Elijah Lewis,Fast,T-Shirt
+ORD0034,CUST025,PROD015,South,21,1,21,Amazon Pay,In Transit,DHL,2023-11-20,,,NO,Books,NA,Emma King,NA,Novel
+ORD0035,CUST032,PROD011,South,172,1,172,PayPal,Delivered,USPS,2023-12-22,2023-12-26,,NO,Electronics,4,Luke Gray,Slow,Headphones
+ORD0036,CUST014,PROD016,North,212,3,636,Amazon Pay,In Transit,UPS,2023-07-23,,,NO,Home,NA,Harper Young,NA,Cookware Set Pro
+ORD0037,CUST044,PROD002,East,41,4,164,Credit Card,Delivered,Amazon Logistics,2023-10-17,2023-10-22,,NO,Toys,5,Grace Ward,Slow,Action Figure
+ORD0038,CUST028,PROD007,North,32,2,64,Debit Card,Cancelled,FedEx,2023-08-22,,2023-08-24,YES,Toys,NA,Lily Bennett,NA,Puzzle
+ORD0039,CUST024,PROD022,East,66,2,132,Apple Pay,In Transit,DHL,2023-12-02,,,NO,Fashion,NA,Scarlett Murphy,NA,Backpack
+ORD0040,CUST006,PROD004,East,62,4,248,Debit Card,In Transit,UPS,2023-12-25,,,NO,Toys,NA,Ava Robinson,NA,Leg Set
+ORD0041,CUST001,PROD011,West,173,4,692,Apple Pay,Delivered,UPS,2023-09-23,2023-09-30,,NO,Electronics,7,James Miller,Slow,Headphones
+ORD0042,CUST007,PROD004,West,63,3,189,Apple Pay,Delivered,UPS,2023-07-16,2023-07-18,,NO,Toys,2,Liam Walker,Fast,Leg Set
+ORD0043,CUST040,PROD021,West,36,3,108,Debit Card,Cancelled,USPS,2023-02-05,,2023-02-11,YES,Home,NA,Benjamin Clark,NA,Wall Clock
+ORD0044,CUST006,PROD004,Central,62,1,62,Apple Pay,Cancelled,Amazon Logistics,2023-12-18,,2023-12-23,YES,Toys,NA,Ava Robinson,NA,Leg Set
+ORD0045,CUST042,PROD003,Central,137,5,685,Amazon Pay,Cancelled,FedEx,2023-06-11,,2023-06-14,YES,Home,NA,Noah Wilson,NA,Cookware Set
+ORD0046,CUST039,PROD017,North,73,4,292,Credit Card,Delivered,Amazon Logistics,2023-12-04,2023-12-08,,NO,Electronics,4,Logan Ramirez,Slow,Gaming Mouse
+ORD0047,CUST041,PROD020,North,104,1,104,PayPal,Delivered,Amazon Logistics,2023-07-17,2023-07-19,,NO,Electronics,2,Jacob Price,Fast,Bluetooth Speaker
+ORD0048,CUST044,PROD006,East,97,1,97,Amazon Pay,Delivered,FedEx,2023-10-19,2023-10-24,,NO,Fashion,5,Grace Ward,Slow,Shoes
+ORD0049,CUST026,PROD017,South,73,5,365,Apple Pay,In Transit,Amazon Logistics,2023-05-15,,,NO,Electronics,NA,Zoe Mitchell,NA,Gaming Mouse
+ORD0050,CUST040,PROD005,East,27,3,81,Amazon Pay,Delivered,UPS,2023-02-12,2023-02-19,,NO,Fashion,7,Benjamin Clark,Slow,T-Shirt
+ORD0051,CUST041,PROD021,North,37,1,37,Apple Pay,In Transit,UPS,2023-10-02,,,NO,Home,NA,Jacob Price,NA,Wall Clock
+ORD0052,CUST008,PROD015,North,22,1,22,Debit Card,Delivered,FedEx,2023-01-30,2023-02-01,,NO,Books,2,Harper Young,Fast,Novel
+ORD0053,CUST011,PROD016,Central,218,5,1090,PayPal,Delivered,DHL,2023-12-29,2024-01-01,,NO,Home,3,Mason Hall,Slow,Cookware Set Pro
+ORD0054,CUST018,PROD004,North,64,1,64,Apple Pay,Cancelled,USPS,2023-03-06,,2023-03-13,YES,Toys,NA,Grace Scott,NA,Leg Set
+ORD0055,CUST037,PROD021,Central,36,4,144,PayPal,Delivered,Amazon Logistics,2023-02-02,2023-02-06,,NO,Home,4,Emily Johnson,Slow,Wall Clock
+ORD0056,CUST017,PROD004,West,65,1,65,Amazon Pay,Delivered,FedEx,2023-10-18,2023-10-21,,NO,Toys,3,Emma King,Slow,Leg Set
+ORD0057,CUST025,PROD005,Central,26,1,26,Apple Pay,Delivered,DHL,2023-01-07,2023-01-09,,NO,Fashion,2,Emma King,Fast,T-Shirt
+ORD0058,CUST021,PROD009,North,11,5,55,Credit Card,In Transit,FedEx,2023-05-08,,,NO,Books,NA,Zoe Mitchell,NA,Magazine
+ORD0059,CUST003,PROD013,North,195,4,780,PayPal,Cancelled,FedEx,2023-04-02,,2023-04-05,YES,Home,NA,Ethan Davis,NA,Vacuum Cleaner
+ORD0060,CUST019,PROD019,West,44,5,220,Apple Pay,Cancelled,USPS,2023-10-11,,2023-10-12,YES,Fashion,NA,Ava Robinson,NA,Formal Shirt
+ORD0061,CUST035,PROD008,East,69,4,276,Debit Card,In Transit,DHL,2023-09-10,,,NO,Books,NA,Scarlett Adams,NA,Textbook
+ORD0062,CUST022,PROD001,North,815,4,3260,Credit Card,Delivered,USPS,2023-11-22,2023-11-29,,NO,Electronics,7,Elijah Lewis,Slow,Smartphone
+ORD0063,CUST004,PROD005,East,27,1,27,Debit Card,In Transit,Amazon Logistics,2023-05-02,,,NO,Fashion,NA,Noah Wilson,NA,T-Shirt
+ORD0064,CUST048,PROD003,West,139,5,695,Apple Pay,Delivered,USPS,2023-12-25,2023-12-29,,NO,Home,4,Noah Wilson,Slow,Cookware Set
+ORD0065,CUST009,PROD008,South,69,3,207,PayPal,Cancelled,Amazon Logistics,2023-10-18,,2023-10-20,YES,Books,NA,Jackson Allen,NA,Textbook
+ORD0066,CUST009,PROD019,West,42,1,42,Apple Pay,Cancelled,DHL,2023-05-20,,2023-05-21,YES,Fashion,NA,Jackson Allen,NA,Formal Shirt
+ORD0067,CUST050,PROD007,North,31,4,124,Credit Card,Delivered,UPS,2023-07-28,2023-07-30,,NO,Toys,2,NOT FOUND,Fast,Puzzle
+ORD0068,CUST045,PROD020,West,104,3,312,Credit Card,In Transit,UPS,2023-12-18,,,NO,Electronics,NA,Emily Johnson,NA,Bluetooth Speaker
+ORD0069,CUST044,PROD010,East,58,2,116,Apple Pay,Cancelled,USPS,2023-07-02,,2023-07-07,YES,Fashion,NA,Grace Ward,NA,Jeans
+ORD0070,CUST009,PROD004,West,62,2,124,Debit Card,Cancelled,DHL,2023-10-09,,2023-10-10,YES,Toys,NA,Jackson Allen,NA,Leg Set
+ORD0071,CUST006,PROD019,East,43,1,43,Credit Card,Delivered,Amazon Logistics,2023-12-18,2023-12-25,,NO,Fashion,7,Ava Robinson,Slow,Formal Shirt
+ORD0072,CUST022,PROD004,East,62,4,248,Debit Card,In Transit,Amazon Logistics,2023-03-07,,,NO,Toys,NA,Elijah Lewis,NA,Leg Set
+ORD0073,CUST028,PROD006,North,95,2,190,PayPal,Cancelled,UPS,2023-07-22,,2023-07-25,YES,Fashion,NA,Lily Bennett,NA,Shoes
+ORD0074,CUST016,PROD021,Central,36,4,144,Apple Pay,Delivered,FedEx,2023-01-18,2023-01-24,,NO,Home,6,Elijah Lewis,Slow,Wall Clock
+ORD0075,CUST042,PROD017,East,73,5,365,Apple Pay,In Transit,DHL,2023-05-24,,,NO,Electronics,NA,Noah Wilson,NA,Gaming Mouse
+ORD0076,CUST023,PROD019,North,43,4,172,Debit Card,Delivered,DHL,2023-09-03,2023-09-09,,NO,Fashion,6,Charlotte Reed,Slow,Formal Shirt
+ORD0077,CUST004,PROD016,West,214,5,1070,Debit Card,Delivered,UPS,2023-11-02,2023-11-04,,NO,Home,2,Noah Wilson,Fast,Cookware Set Pro
+ORD0078,CUST048,PROD002,Central,42,2,84,Apple Pay,Cancelled,UPS,2023-12-03,,2023-12-06,YES,Toys,NA,Noah Wilson,NA,Action Figure
+ORD0079,CUST048,PROD012,North,46,1,46,Amazon Pay,In Transit,UPS,2023-04-01,,,NO,Home,NA,Noah Wilson,NA,Lamp
+ORD0080,CUST032,PROD018,East,95,4,380,Credit Card,Delivered,UPS,2023-10-16,2023-10-19,,NO,Toys,3,Luke Gray,Slow,Doll House
+ORD0081,CUST001,PROD011,West,174,2,348,PayPal,In Transit,UPS,2023-11-05,,,NO,Electronics,NA,James Miller,NA,Headphones
+ORD0082,CUST046,PROD005,North,27,5,135,Credit Card,Cancelled,Amazon Logistics,2023-06-15,,2023-06-18,YES,Fashion,NA,Emily Johnson,NA,T-Shirt
+ORD0083,CUST021,PROD005,South,27,4,108,PayPal,Delivered,USPS,2023-10-28,2023-10-30,,NO,Fashion,2,Zoe Mitchell,Fast,T-Shirt
+ORD0084,CUST015,PROD022,South,65,2,130,PayPal,In Transit,DHL,2023-12-22,,,NO,Fashion,NA,Ava White,NA,Backpack
+ORD0085,CUST045,PROD019,East,43,5,215,Debit Card,In Transit,DHL,2023-03-07,,,NO,Fashion,NA,Emily Johnson,NA,Formal Shirt
+ORD0086,CUST007,PROD016,West,210,1,210,PayPal,In Transit,UPS,2023-11-10,,,NO,Home,NA,Liam Walker,NA,Cookware Set Pro
+ORD0087,CUST043,PROD021,South,37,3,111,Credit Card,In Transit,UPS,2023-11-22,,,NO,Home,NA,Lily Reed,NA,Wall Clock
+ORD0088,CUST007,PROD001,South,788,4,3152,Debit Card,In Transit,Amazon Logistics,2023-05-08,,,NO,Electronics,NA,Liam Walker,NA,Smartphone
+ORD0089,CUST007,PROD016,West,217,5,1085,Debit Card,In Transit,FedEx,2023-07-13,,,NO,Home,NA,Liam Walker,NA,Cookware Set Pro
+ORD0090,CUST007,PROD003,West,138,4,552,Credit Card,In Transit,FedEx,2023-01-18,,,NO,Home,NA,Liam Walker,NA,Cookware Set
+ORD0091,CUST031,PROD001,Central,803,2,1606,Apple Pay,Delivered,FedEx,2023-06-23,2023-06-29,,NO,Electronics,6,Mason Collins,Slow,Smartphone
+ORD0092,CUST013,PROD014,North,248,5,1240,PayPal,Cancelled,UPS,2023-02-21,,2023-02-25,YES,Electronics,NA,Olivia Martinez,NA,Smartwatch
+ORD0093,CUST036,PROD016,East,210,3,630,Apple Pay,Delivered,DHL,2023-02-19,2023-02-21,,NO,Home,2,Ethan Davis,Fast,Cookware Set Pro
+ORD0094,CUST013,PROD004,North,62,2,124,Credit Card,Cancelled,FedEx,2023-12-05,,2023-12-12,YES,Toys,NA,Olivia Martinez,NA,Leg Set
+ORD0095,CUST043,PROD009,South,11,5,55,Debit Card,Cancelled,Amazon Logistics,2023-06-07,,2023-06-12,YES,Books,NA,Lily Reed,NA,Magazine
+ORD0096,CUST017,PROD015,North,21,2,42,Amazon Pay,Delivered,UPS,2023-07-09,2023-07-12,,NO,Books,3,Emma King,Slow,Novel
+ORD0097,CUST023,PROD018,West,95,5,475,Amazon Pay,Delivered,Amazon Logistics,2023-12-23,2023-12-26,,NO,Toys,3,Charlotte Reed,Slow,Doll House
+ORD0098,CUST044,PROD016,South,215,2,430,PayPal,Delivered,Amazon Logistics,2023-09-25,2023-09-30,,NO,Home,5,Grace Ward,Slow,Cookware Set Pro
+ORD0099,CUST034,PROD019,West,43,5,215,Credit Card,Cancelled,UPS,2023-01-18,,2023-01-24,YES,Fashion,NA,Lily Simmons,NA,Formal Shirt
+ORD0100,CUST009,PROD002,West,42,4,168,Debit Card,In Transit,DHL,2023-03-27,,,NO,Toys,NA,Jackson Allen,NA,Action Figure
