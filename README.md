@@ -165,7 +165,7 @@ The dashboard presents insights using an interactive and business-friendly layou
 
 # 📷 Dashboard Preview
 
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](./datasets/Dashboard.png)
 
 ---
 
